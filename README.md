@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mhamd 👋
 
-<!--
-**Mhamd021/Mhamd021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer specializing in NestJS, TypeScript, 
+PostgreSQL, Redis, and real-time systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Delivery Backend](https://github.com/Mhamd021/Mesyaf-Market) | Multi-role delivery platform with real-time tracking | NestJS, Redis, Socket.IO |
+| [Waitless](https://github.com/Mhamd021/waitless) | Digital queue system with live updates | NestJS, Bull Queue, Socket.IO |
+| [Code Notepad](https://github.com/Mhamd021/code-notepad) | Collaborative editor with OT algorithm | NestJS, Socket.IO, Redis |
+| [Job Tracker](https://github.com/Mhamd021/job-tracker) | Job application tracker with GraphQL | NestJS, GraphQL, PostgreSQL |
+
+## 📫 Contact
+- Portfolio: [mhamd021.github.io](https://mhamd021.github.io)
+- LinkedIn: [linkedin.com/in/mhamd-ghanoum-234325227](https://linkedin.com/in/mhamd-ghanoum-234325227)
+- Email: mhamdghanoum82@gmail.com
+
+## 📍 Currently
+- 🔍 Seeking Backend Engineer roles in Europe
+- 🌱 Deepening knowledge in System Design & Distributed Systems
+- 🇩🇪 Learning German (B2)
