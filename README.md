@@ -16,7 +16,6 @@ PostgreSQL, Redis, and real-time systems.
 |---|---|---|
 | [Delivery Backend](https://github.com/Mhamd021/Mesyaf-Market) | Multi-role delivery platform with real-time tracking | NestJS, Redis, Socket.IO |
 | [Waitless](https://github.com/Mhamd021/waitless) | Digital queue system with live updates | NestJS, Bull Queue, Socket.IO |
-| [Code Notepad](https://github.com/Mhamd021/code-notepad) | Collaborative editor with OT algorithm | NestJS, Socket.IO, Redis |
 | [Job Tracker](https://github.com/Mhamd021/job-tracker) | Job application tracker with GraphQL | NestJS, GraphQL, PostgreSQL |
 
 ## 📫 Contact
